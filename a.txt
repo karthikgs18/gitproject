@@ -4,3 +4,4 @@ my 4th line
 my 5th line
 added 6th line
 7th line
+8th line
