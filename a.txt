@@ -3,3 +3,4 @@ my 2nd line
 my 4th line
 my 5th line
 added 6th line
+7th line
